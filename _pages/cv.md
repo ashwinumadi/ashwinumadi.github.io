@@ -48,6 +48,7 @@ Skills
   * Vuejs
   * PostgreSQL
   * SQLite
+
 * Framework & Tools
   * Django
   * Flask
@@ -61,9 +62,11 @@ Skills
   * Jira
   * Github Pages
   * Jekyll
+
 * Cloud
   * Google Cloud Platform
   * Amazon Web Service(AWS)
+
 * Technologies
   * Data Structures & Algorithms
   * RESTful APIs

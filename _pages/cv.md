@@ -59,6 +59,8 @@ Skills
   * Github
   * Google Colab
   * Jira
+  * Github Pages
+  * Jekyll
 * Cloud
   * Google Cloud Platform
   * Amazon Web Service(AWS)

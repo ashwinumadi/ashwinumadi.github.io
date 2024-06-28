@@ -17,16 +17,22 @@ Education
 Work experience
 ======
 * Senior Software Engineer: Sandvine Technologies : Apr 2023 - July 2023
-  * Optimized Sandvine’s network products’ prediction tool website page response time by 25% by improving the backend algorithm performance from quadratic to linear time through dynamic programming and caching data. [Python Django ORM, Git]
+  * Optimized Sandvine’s products’ server load prediction tool website’s page response time by 25% by improving the backend algorithm performance from O(n3) to O(n) via dynamic programming and caching data. [Python, Django ORM]
+  * Designed postgres schemas to store frequently accessed API data reducing the website’s page response time by 90%
+  * Developed query optimization techniques using data partitioning, indexing and filtering to achieve 50% improvement in
+the time to extract the data from the database.
   * Built an automated testing framework for more than 50 features integrated in the prediction tool website reducing two days of manpower needed on a monthly basis. Enhanced the existing unit tests and functional tests to cover up to 80% of the codebase.
   * Led the technical staff for customer related issues in the enterprise solutions for all Sandvine’s 4G and 5G control plane products.
 
 * Software Engineer: Sandvine Technologies : Oct 2022 - Mar 2023
   * Analyzed and managed production services (using Kubernetes and Docker) for the prediction website tool. This was used by all
 of Sandvine’s customers during their onboarding process including the leading telecommunication companies.
+  * Implemented schema migration in postgres to manage schema changes overtime during production deployment.
   * Gained excellence in data modeling, improved accuracy of regression models from 90% to 98% by optimizing the model
 hyperparameters. These were used to train data models to predict total Sandvine’s telecom products. Training involved complex
 datasets with more than 10 varying parameters on average. [Python, Statistical modeling, Matplotlib, Git]
+  * Led as Scrum Master, Escape Defect Analysis (EDA) meetings, and ensured on-time delivery, discussed and
+implemented bug prevention strategies, reducing bug frequency by 80% in three months.
   * Developed a Deep Learning model to reduce time spent in data modeling from 3 days to under 30 minutes, leading to a
 significant enhancement in feature delivery from 6 to 10 features per month. Also, served as the Scrum master for the team.
   * Developed and documented around 10 new features within the categories of ‘Ease of Usability’, ‘Adaptability to Multiple
@@ -62,6 +68,7 @@ Skills
   * Jira
   * Github Pages
   * Jekyll
+  * Github Actions
 
 * Cloud
   * Google Cloud Platform

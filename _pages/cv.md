@@ -16,8 +16,12 @@ Education
 
 Work experience
 ======
+* Web Developer : June 2024 – Aug 2024
+  * Developed CU Boulder research labs web pages using Jekyll, Ruby, CSS and JavaScript and deployed on custom domains.
+  * Automated 80% of website’s content generation using Ruby and Python.
+  * Managed continuous integration and deployment (CI/CD) pipelines using GitHub Actions.
 * Senior Software Engineer: Sandvine Technologies : Apr 2023 - July 2023
-  * Optimized Sandvine’s products’ server load prediction tool website’s page response time by 25% by improving the backend algorithm performance from O(n3) to O(n) via dynamic programming and caching data. [Python, Django ORM]
+  * Optimized Sandvine’s products’ server load prediction tool website’s page response time by 70% by improving the backend algorithm performance from O(n3) to O(n) via dynamic programming and caching data. [Python, Django ORM]
   * Designed postgres schemas to store frequently accessed API data reducing the website’s page response time by 90%
   * Developed query optimization techniques using data partitioning, indexing and filtering to achieve 50% improvement in
 the time to extract the data from the database.
@@ -39,8 +43,8 @@ significant enhancement in feature delivery from 6 to 10 features per month. Als
 Configuration', and ‘Performance Improvement’ for both frontend and backend sections of the application.
 
 * Test Engineer: Sandvine Technologies : Jun 2021 - Sept 2022
-  * Enhanced and maintained a Django-based web application (utilizing Postgres for DB, Vue.js, Javascript, and Node.js for dynamic UI) predicting Sandvine products for specific customer use cases. Generated detailed PDF reports of these predictions and increased code coverage from 40% to 60% through rigorous unit testing.
-  * Analyzed complex system performance data at Sandvine, employing data modeling to predict customer’s telecom product needs with 90% accuracy. Also dealt with data collection, preprocessing and evaluation. [Python, Ordinary Least Square Solution]
+  * Enhanced a Django web app with PostgreSQL for the database and Vue.js for the UI to predict server load estimates. Explored REST APIs, tested with Selenium/Postman, and increased Django code coverage from 40% to 60% through rigorous unit testing.
+  * Analyzed system CPU performance of Sandvine’s products and employed data modeling to predict server CPU load estimates with 90% accuracy. Managed data collection, preprocessing, and evaluation using Statistics and Pandas.
   
 Skills
 ======
